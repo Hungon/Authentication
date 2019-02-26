@@ -1,5 +1,3 @@
-<h3>Authentication</h3>
-
 ## Project setup
 
 ```
